@@ -4,3 +4,17 @@ body{
     font-family: "fedoka one", cursive;
     
 }
+
+.logo{
+    width: 200px 
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    padding: 48px;
+}
+
+.nav-link{
+    color: #545454;
+}
